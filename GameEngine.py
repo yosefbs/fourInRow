@@ -4,5 +4,5 @@ class GameEngine:
         self.player1=player1
         self.player2=player2
 
-    def startGame(self):
+    def start_game(self):
         return
